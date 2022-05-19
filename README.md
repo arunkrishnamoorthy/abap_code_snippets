@@ -1,2 +1,9 @@
-# abap_code_snippets
-ABAP Code Snippets for Reusability
+# ABAP Code Snippets
+
+The Repository contains code snippets for ABAP Code. 
+
+1. [OData](https://odata.org) 
+2. [ABAP Code](OData)
+
+
+
